@@ -575,7 +575,7 @@ body {
   .mobile-bg {
     display: block;
     max-width: 90%;
-    margin-left: 2%;
+		margin-left: 2%;
   }
   .main-content {
     position: relative;
